@@ -9,5 +9,5 @@
 ### 📊Projects
 
 - SQL & Tableau - [BellaBeat : Analysing smart device usage data to gain insight about consumers](https://public.tableau.com/app/profile/audrey.khaing/viz/BellaBeat_16702747500240/Bellabeat)
-- R - Cyclistic : [Marketing insights to maximize annual memberships of a bike share company](https://rpubs.com/AudreyKhaing/cyclistic)
+- R - [Cyclistic : Marketing insights to maximize annual memberships of a bike share company](https://rpubs.com/AudreyKhaing/cyclistic)
 - Python - [Plotting Tesla and GameStop historical stock prices](https://github.com/khaingAudrey/StockPriceProjectWithPython)
